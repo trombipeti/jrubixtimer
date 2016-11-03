@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="jrubixtimer.JRubixMainWindow">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <minimumSize width="100" height="100"/>
+      <preferredSize width="100" height="100"/>
+      <requestFocusEnabled value="true"/>
+      <toolTipText value="ASD"/>
+    </properties>
+    <border type="none"/>
+    <children/>
+  </grid>
+</form>
